@@ -58,12 +58,12 @@ To perform Logistic Regression task we will use Loan Prediction dataset.
 
 This dataset contains following features:
 
-Applications Numbers that came
-Co-application
-Loan Amount
-Loan Amount term
-Credit History
-Loan Status
+* Applications Numbers that came
+* Co-application
+* Loan Amount
+* Loan Amount term
+* Credit History
+* Loan Status
 
 Target Variable:
 
